@@ -1,0 +1,7 @@
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+Profile = "9abbd945-dff8-562f-b5e8-e1ebf5ef1b79"
