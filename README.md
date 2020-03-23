@@ -1,6 +1,6 @@
 # Introduction
 
-This repository contains code to accompany my Medium blog post titled "A Beginner's Guide To Optimizing Julia Code".
+This repository contains code to accompany my Medium blog post titled [A Beginner's Guide To Optimizing Julia Code](https://medium.com/towards-artificial-intelligence/a-beginners-guide-to-optimizing-julia-code-148e3f2d69bd).
 
 # Usage
 
